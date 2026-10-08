@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-09-26T09:02:21",
+  "generated_at": "2026-10-08T14:36:58",
   "vehicle_count": 199,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,13 +20,16 @@
       "year": 2010,
       "make": "Mercedes-Benz",
       "model": "GLK-Class",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2011 BMW 1 Series Convertible ",
       "vin": "WBAUL7C50BVJ78521",
       "stock": "HP10165",
       "color": "Silver",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d8ec88244749.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2011/bmw/1-series-convertible/vancouver/bc/71395413/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2011/bmw/1-series-convertible/vancouver/bc/71395413/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +39,17 @@
       "odometer_km": 138824,
       "year": 2011,
       "make": "BMW",
-      "model": "1 Series Convertible",
-      "condition": "used"
+      "model": "1 Series",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2012 Honda Civic Sedan Reliable Civic | City Drive Ready",
       "vin": "2HGFB2F40CH106606",
       "stock": "HP10182",
       "color": "Grey",
+      "trim": "Reliable Civic",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/eab31e6f23b3.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2012/honda/civic-sedan/vancouver/bc/71362063/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2012/honda/civic-sedan/vancouver/bc/71362063/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +59,17 @@
       "odometer_km": 162256,
       "year": 2012,
       "make": "Honda",
-      "model": "Civic Sedan Reliable Civic",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2013 Mazda Mazda3 Sport ",
       "vin": "JM1BL1L75D1760956",
       "stock": "HP10183",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/1db72ddb7d52.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2013/mazda/mazda3-sport/vancouver/bc/71362061/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2013/mazda/mazda3-sport/vancouver/bc/71362061/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +79,17 @@
       "odometer_km": 121079,
       "year": 2013,
       "make": "Mazda",
-      "model": "Mazda3 Sport",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014 BMW X3 AWD 4dr xDrive28i",
       "vin": "5UXWX9C51E0D15559",
       "stock": "HP10214",
       "color": "Silver",
+      "trim": "xDrive28i",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/77f855d691b0.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2014/bmw/x3/vancouver/bc/71383989/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2014/bmw/x3/vancouver/bc/71383989/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +99,17 @@
       "odometer_km": 184902,
       "year": 2014,
       "make": "BMW",
-      "model": "X3 AWD 4dr xDrive28i",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Elantra 4dr Sdn Auto Sport Appearance",
       "vin": "KMHDH4AE5FU285920",
       "stock": "FE26586",
       "color": "Blue",
+      "trim": "Sdn Auto Sport Appearance",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/5b1cce7790c6.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2015/hyundai/elantra/vancouver/bc/71334268/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2015/hyundai/elantra/vancouver/bc/71334268/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +119,17 @@
       "odometer_km": 205207,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Elantra 4dr Sdn Auto Sport Appearance",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 Lexus ES ES 300 H | Premium Hybrid | Fuel efficient",
       "vin": "JTHBW1GG4G2125032",
       "stock": "HP10168",
       "color": "Grey",
+      "trim": "ES 300 H",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/fc5bb1863b70.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2016/lexus/es/vancouver/bc/70964105/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2016/lexus/es/vancouver/bc/70964105/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +139,17 @@
       "odometer_km": 102965,
       "year": 2016,
       "make": "Lexus",
-      "model": "ES ES 300 H",
-      "condition": "used"
+      "model": "ES",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 Mercedes-Benz GLA GLA 250 | Turbocharged 4MATIC AWD",
       "vin": "WDCTG4GB3GJ235191",
       "stock": "HP10129",
       "color": "White",
+      "trim": "GLA 250",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cf3c325e9833.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2016/mercedes-benz/gla/vancouver/bc/71299203/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2016/mercedes-benz/gla/vancouver/bc/71299203/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +159,17 @@
       "odometer_km": 56401,
       "year": 2016,
       "make": "Mercedes-Benz",
-      "model": "GLA GLA 250",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Outback 5dr Wgn CVT 2.5i w-Limited & Tech Pkg",
       "vin": "4S4BSCNC8G3215492",
       "stock": "HP10154",
       "color": "Silver",
+      "trim": "5dr Wgn 2.5i w-Limited & Tech Pkg",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b604a9270648.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2016/subaru/outback/vancouver/bc/71180940/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2016/subaru/outback/vancouver/bc/71180940/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +179,17 @@
       "odometer_km": 121795,
       "year": 2016,
       "make": "Subaru",
-      "model": "Outback 5dr Wgn CVT 2.5i w-Limited & Tech Pkg",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Hatchback Versatile | Turbo Hatchback Sport",
       "vin": "SHHFK7H44HU308871",
       "stock": "HP10171",
       "color": "Grey",
+      "trim": "Versatile",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/3d6ffe587784.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2017/honda/civic-hatchback/vancouver/bc/70999708/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2017/honda/civic-hatchback/vancouver/bc/70999708/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,8 +199,10 @@
       "odometer_km": 76391,
       "year": 2017,
       "make": "Honda",
-      "model": "Civic Hatchback Versatile",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Sedan ",
@@ -190,13 +219,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Ridgeline 4WD Crew Cab Touring",
       "vin": "5FPYK3F72HB504993",
       "stock": "YK26238",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/0ca1f68b12f4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2017/honda/ridgeline/vancouver/bc/71209498/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2017/honda/ridgeline/vancouver/bc/71209498/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +238,17 @@
       "odometer_km": 136028,
       "year": 2017,
       "make": "Honda",
-      "model": "Ridgeline 4WD Crew Cab Touring",
-      "condition": "used"
+      "model": "Ridgeline",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X2 xDrive28i Sports Activity Vehicle",
       "vin": "WBXYJ5C34JEF70306",
       "stock": "RS26889",
       "color": "Black",
+      "trim": "xDrive28i Sports Activity Vehicle",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/31a1a140f4a1.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2018/bmw/x2/vancouver/bc/71334269/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2018/bmw/x2/vancouver/bc/71334269/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +258,17 @@
       "odometer_km": 86399,
       "year": 2018,
       "make": "BMW",
-      "model": "X2 xDrive28i Sports Activity Vehicle",
-      "condition": "used"
+      "model": "X2",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Honda CR-V Touring AWD | Accident-Free | Fully Loaded",
       "vin": "2HKRW2H92KH115807",
       "stock": "HP10151",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/a0742a985688.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2019/honda/cr-v/vancouver/bc/70730159/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2019/honda/cr-v/vancouver/bc/70730159/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +278,17 @@
       "odometer_km": 40889,
       "year": 2019,
       "make": "Honda",
-      "model": "CR-V Touring AWD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe 2.4L Preferred AWD | Spacious | Family-Friendly",
       "vin": "5NMS3CADXKH125304",
       "stock": "HP10167",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/8b5b95631f31.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2019/hyundai/santa-fe/vancouver/bc/70934198/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2019/hyundai/santa-fe/vancouver/bc/70934198/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +298,17 @@
       "odometer_km": 114518,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Santa Fe 2.4L Preferred AWD",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 GS Auto | Adventure Ready AWD",
       "vin": "JM3KFBCM0K1618506",
       "stock": "HP10170",
       "color": "Blue",
+      "trim": "GS Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cfd836f43281.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2019/mazda/cx-5/vancouver/bc/70999710/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2019/mazda/cx-5/vancouver/bc/70999710/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +318,17 @@
       "odometer_km": 97226,
       "year": 2019,
       "make": "Mazda",
-      "model": "CX-5 GS Auto",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-9 GT AWD | Fully Loaded | Great Condition",
       "vin": "JM3TCBDY5K0330579",
       "stock": "HP10119",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/af02117e99ca.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2019/mazda/cx-9/vancouver/bc/70217165/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2019/mazda/cx-9/vancouver/bc/70217165/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +338,17 @@
       "odometer_km": 144669,
       "year": 2019,
       "make": "Mazda",
-      "model": "CX-9 GT AWD",
-      "condition": "used"
+      "model": "CX-9",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Sentra Sedan SV CVT | Fuel-Efficient | Everyday Practical",
       "vin": "3N1AB7AP7KY337960",
       "stock": "HP10096",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b4f5f0a6e53c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2019/nissan/sentra-sedan/vancouver/bc/69981533/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2019/nissan/sentra-sedan/vancouver/bc/69981533/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +358,17 @@
       "odometer_km": 117500,
       "year": 2019,
       "make": "Nissan",
-      "model": "Sentra Sedan SV CVT",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra Preferred w-Sun & Safety Package IVT",
       "vin": "KMHD84LF4LU004434",
       "stock": "HP10200",
       "color": "Grey",
+      "trim": "Preferred w-Sun & Safety Package IVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/48ec2c0abc6e.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2020/hyundai/elantra/vancouver/bc/71233001/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2020/hyundai/elantra/vancouver/bc/71233001/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +378,17 @@
       "odometer_km": 126157,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra Preferred w-Sun & Safety Package IVT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Kicks SV FWD | Economical & Sporty",
       "vin": "3N1CP5CV8LL550019",
       "stock": "HP10187",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/fd6e8f473dad.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2020/nissan/kicks/vancouver/bc/71209496/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2020/nissan/kicks/vancouver/bc/71209496/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +398,17 @@
       "odometer_km": 60559,
       "year": 2020,
       "make": "Nissan",
-      "model": "Kicks SV FWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Corolla Sedan LE CVT | FWD Adventure Ready",
       "vin": "5YFBPRBE2LP131054",
       "stock": "HP10201",
       "color": "Silver",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/6b5ad931a6ca.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/corolla-sedan/vancouver/bc/71259827/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/corolla-sedan/vancouver/bc/71259827/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +418,17 @@
       "odometer_km": 79723,
       "year": 2020,
       "make": "Toyota",
-      "model": "Corolla Sedan LE CVT",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Corolla Sedan SE CVT | Sport-Tuned | Accident Free",
       "vin": "5YFB4RBE9LP004424",
       "stock": "HP10206",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/5261f6c70117.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/corolla-sedan/vancouver/bc/71299197/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/corolla-sedan/vancouver/bc/71299197/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +438,17 @@
       "odometer_km": 101048,
       "year": 2020,
       "make": "Toyota",
-      "model": "Corolla Sedan SE CVT",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota RAV4 XLE AWD Adventure Ready",
       "vin": "2T3R1RFV7LW115951",
       "stock": "HP10194",
       "color": "Grey",
+      "trim": "XLE Adventure Ready",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/6869dcd90eec.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/rav4/vancouver/bc/71180953/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2020/toyota/rav4/vancouver/bc/71180953/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +458,17 @@
       "odometer_km": 96460,
       "year": 2020,
       "make": "Toyota",
-      "model": "RAV4 XLE AWD Adventure Ready",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Camaro Coupe 2dr Cpe 1LT - RS PACKAGE - ACCIDENT FREE",
       "vin": "1G1FB1RS8M0118780",
       "stock": "HP10181",
       "color": "Grey",
+      "trim": "Cpe 1LT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b421e4250040.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2021/chevrolet/camaro-coupe/vancouver/bc/71135596/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2021/chevrolet/camaro-coupe/vancouver/bc/71135596/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,8 +478,10 @@
       "odometer_km": 61900,
       "year": 2021,
       "make": "Chevrolet",
-      "model": "Camaro Coupe 2dr Cpe 1LT - RS PACKAGE - ACCIDENT FREE",
-      "condition": "used"
+      "model": "Camaro",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 SuperCrew ",
@@ -428,13 +498,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Camry Sedan SE Auto | Sport-Tuned Suspension",
       "vin": "4T1G11AK2MU433332",
       "stock": "HP10202",
       "color": "White",
+      "trim": "SE Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/f67ae647dadd.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2021/toyota/camry-sedan/vancouver/bc/71272683/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2021/toyota/camry-sedan/vancouver/bc/71272683/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +517,17 @@
       "odometer_km": 133120,
       "year": 2021,
       "make": "Toyota",
-      "model": "Camry Sedan SE Auto",
-      "condition": "used"
+      "model": "Camry",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 LE AWD | Adventure Ready",
       "vin": "2T3B1RFVXMC207141",
       "stock": "HP10177",
       "color": "Grey",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ab30b96c1713.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2021/toyota/rav4/vancouver/bc/71078668/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2021/toyota/rav4/vancouver/bc/71078668/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,8 +537,10 @@
       "odometer_km": 127535,
       "year": 2021,
       "make": "Toyota",
-      "model": "RAV4 LE AWD",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Audi SQ7 4.0 TFSI Quattro | Twin-Turbo V8 Power",
@@ -479,13 +557,16 @@
       "year": 2022,
       "make": "Audi",
       "model": "SQ7 4.0 TFSI Quattro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3 xDrive30i Sports Activity Vehicle",
       "vin": "5UX53DP02N9M88654",
       "stock": "HP10211",
       "color": "White",
+      "trim": "xDrive30i Sports Activity Vehicle",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/70dc188cba06.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2022/bmw/x3/vancouver/bc/71344933/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2022/bmw/x3/vancouver/bc/71344933/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +576,17 @@
       "odometer_km": 97505,
       "year": 2022,
       "make": "BMW",
-      "model": "X3 xDrive30i Sports Activity Vehicle",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 SuperCrew XLT EcoBoost V6 | SuperCrew Cab 4x4",
       "vin": "1FTFW1E86NKF13925",
       "stock": "HP10149",
       "color": "White",
+      "trim": "XLT EcoBoost V6",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/48b36fc75ca4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2022/ford/f-150-supercrew/vancouver/bc/71334271/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2022/ford/f-150-supercrew/vancouver/bc/71334271/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +596,17 @@
       "odometer_km": 196848,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 SuperCrew XLT EcoBoost V6",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan Premium Civic Comfort",
       "vin": "2HGFE2F3XNH104833",
       "stock": "FE26845",
       "color": "Black",
+      "trim": "Premium Civic Comfort",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/240e0853ff32.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2022/honda/civic-sedan/vancouver/bc/71344932/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2022/honda/civic-sedan/vancouver/bc/71344932/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +616,17 @@
       "odometer_km": 76644,
       "year": 2022,
       "make": "Honda",
-      "model": "Civic Sedan Premium Civic Comfort",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan Paddle Shifter Sport-Tuned Civic",
       "vin": "2HGFE2F51NH112420",
       "stock": "FE26761",
       "color": "Grey",
+      "trim": "Paddle Shifter Sport-Tuned Civic",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/1c83b6a467fb.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2022/honda/civic-sedan/vancouver/bc/71344934/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2022/honda/civic-sedan/vancouver/bc/71344934/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +636,17 @@
       "odometer_km": 123586,
       "year": 2022,
       "make": "Honda",
-      "model": "Civic Sedan Paddle Shifter Sport-Tuned Civic",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback Wilderness CVT | Adventure Ready",
       "vin": "4S4BTHTD5N3150958",
       "stock": "HP10161",
       "color": "White",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/97bfa8c2063c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2022/subaru/outback/vancouver/bc/71078669/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2022/subaru/outback/vancouver/bc/71078669/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,8 +656,10 @@
       "odometer_km": 62970,
       "year": 2022,
       "make": "Subaru",
-      "model": "Outback Wilderness CVT",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M2 Premium Package | HUD & Automatic Parking",
@@ -581,13 +676,16 @@
       "year": 2023,
       "make": "BMW",
       "model": "M2 Premium Package",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 xDrive30i Premium Enhanced Package",
       "vin": "5UX53DP08P9R72749",
       "stock": "HP10186",
       "color": "White",
+      "trim": "xDrive30i Premium Enhanced Package",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/e9b99a3c6b00.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2023/bmw/x3/vancouver/bc/71135614/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2023/bmw/x3/vancouver/bc/71135614/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +695,17 @@
       "odometer_km": 87366,
       "year": 2023,
       "make": "BMW",
-      "model": "X3 xDrive30i Premium Enhanced Package",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Civic Type R | Track-Inspired Performance",
       "vin": "JHMFL5G43PX800153",
       "stock": "HP10176",
       "color": "Grey",
+      "trim": "Type R",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/eaecc704b516.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2023/honda/civic-type-r/vancouver/bc/71051914/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2023/honda/civic-type-r/vancouver/bc/71051914/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +715,17 @@
       "odometer_km": 26500,
       "year": 2023,
       "make": "Honda",
-      "model": "Civic Type R",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus NX NX 350 AWD | Luxury Package | Premier SUV",
       "vin": "2T2GGCEZ6PC030991",
       "stock": "HP10117",
       "color": "White",
+      "trim": "NX 350",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b70c6d6bb2d9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2023/lexus/nx/vancouver/bc/70206954/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2023/lexus/nx/vancouver/bc/70206954/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +735,17 @@
       "odometer_km": 24806,
       "year": 2023,
       "make": "Lexus",
-      "model": "NX NX 350 AWD",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda Mazda3 Sedan GT Auto i-ACTIV | AWD Premium Sport",
       "vin": "JM1BPBDM5R1709947",
       "stock": "HP10185",
       "color": "Grey",
+      "trim": "GT Auto i-ACTIV",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/6ac6b79e67c1.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2024/mazda/mazda3-sedan/vancouver/bc/71259826/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2024/mazda/mazda3-sedan/vancouver/bc/71259826/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,8 +755,10 @@
       "odometer_km": 39106,
       "year": 2024,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GT Auto i-ACTIV",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan Hybrid sedan | One owner | Honda Certified",
@@ -666,7 +775,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic Sedan Hybrid sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan ",
@@ -683,13 +794,16 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid Touring AWD | Adventure Ready",
       "vin": "2HKRS6H9XSH204947",
       "stock": "RS27045",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/57f981874023.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/cr-v-hybrid/vancouver/bc/71334274/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/cr-v-hybrid/vancouver/bc/71334274/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +813,17 @@
       "odometer_km": 135502,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H7XSH210570",
       "stock": "YF26766",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d4a838d50b58.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/cr-v-hybrid/vancouver/bc/71383990/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/cr-v-hybrid/vancouver/bc/71383990/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +833,17 @@
       "odometer_km": 18500,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Sedan SE",
       "vin": "1HGCY1F46SA800659",
       "stock": "CY25065",
       "color": "Silver",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ef62fc6c7b27.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/accord-sedan/vancouver/bc/66770890/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/accord-sedan/vancouver/bc/66770890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +853,17 @@
       "odometer_km": 157,
       "year": 2025,
       "make": "Honda",
-      "model": "Accord Sedan SE",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Sedan SE",
       "vin": "1HGCY1F42SA800738",
       "stock": "CY25073",
       "color": "White",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b961785a0cd7.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/accord-sedan/vancouver/bc/67535720/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2025/honda/accord-sedan/vancouver/bc/67535720/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,8 +873,10 @@
       "odometer_km": 60,
       "year": 2025,
       "make": "Honda",
-      "model": "Accord Sedan SE",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia EV9 Land AWD",
@@ -768,13 +893,16 @@
       "year": 2025,
       "make": "Kia",
       "model": "EV9 Land AWD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Golf R Performance Hatch | Racing DNA",
       "vin": "WVWCB7CD8SW232313",
       "stock": "HP10175",
       "color": "Blue",
+      "trim": "Performance Hatch",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/080c3339510a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2025/volkswagen/golf-r/vancouver/bc/71078667/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2025/volkswagen/golf-r/vancouver/bc/71078667/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +912,17 @@
       "odometer_km": 19540,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Golf R Performance Hatch",
-      "condition": "used"
+      "model": "Golf R",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Limited FWD | Spacious Adventure Ready",
       "vin": "2C4RC1GG3TR264203",
       "stock": "HP10190",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/2f376a16c2bd.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/chrysler/pacifica/vancouver/bc/71135590/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/chrysler/pacifica/vancouver/bc/71135590/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +932,17 @@
       "odometer_km": 9500,
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Limited FWD",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Hybird Sport AWD | Accident Free",
       "vin": "2HKRS6H57TH218061",
       "stock": "RS26143",
       "color": "Red",
+      "trim": "Hybird Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cea5a588a51e.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71299194/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71299194/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +952,17 @@
       "odometer_km": 14150,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Hybird Sport AWD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Hybrid Touring AWD | Adventure Ready",
       "vin": "2HKRS6H92TH200070",
       "stock": "HP10210",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/680fc067f38b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71362048/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71362048/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +972,17 @@
       "odometer_km": 3040,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Hybrid Touring AWD",
-      "condition": "used"
+      "model": "CR-V Hybrid",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F86TA800073",
       "stock": "CY26007",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3416623e3bd2.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/69568837/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/69568837/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +992,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L eCVT",
       "vin": "1HGCY2F75TA801058",
       "stock": "CY26105",
       "color": "White",
+      "trim": "Sport-L eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/30b532742f4f.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70099683/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70099683/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1012,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F87TA801118",
       "stock": "CY26111",
       "color": "Black",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/88c73e8f6d4a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70099687/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70099687/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1032,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F88TA801385",
       "stock": "CY26138",
       "color": "Grey",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/212bcf254454.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70399390/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70399390/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1052,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L",
       "vin": "1HGCY2F74TA801326",
       "stock": "CY26132",
       "color": "White",
+      "trim": "Sport-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/25d01831be0c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70627567/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70627567/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1072,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L eCVT",
       "vin": "1HGCY2F73TA801656",
       "stock": "CY26165",
       "color": "Grey",
+      "trim": "Sport-L eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/fd725f8d5780.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731493/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731493/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1092,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F82TA801771",
       "stock": "CY26177",
       "color": "White",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/52367db1de32.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731495/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731495/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1112,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L eCVT",
       "vin": "1HGCY2F71TA801672",
       "stock": "CY26167",
       "color": "White",
+      "trim": "Sport-L eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/35bd257d275d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731496/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/70731496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1132,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F88TA801810",
       "stock": "CY26181",
       "color": "Grey",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/99950ef0b12b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/71080012/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/accord-hybrid/vancouver/bc/71080012/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1152,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F81TH008321",
       "stock": "FE26832",
       "color": "White",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f8a22d5db007.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/69379123/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/69379123/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1172,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE4F88TH012317",
       "stock": "FE26231",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e805771c4bf8.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70046396/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70046396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1192,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F28TH110683",
       "stock": "FE26068",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ca0a15f752af.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70088092/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70088092/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1212,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F5XTH110775",
       "stock": "FE26077",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d214a0114b14.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70088096/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70088096/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1232,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F50TH110588",
       "stock": "FE26058",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e93b15b0d4a9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70099676/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70099676/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1252,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F55TH110571",
       "stock": "FE26057",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e8fc6cca7a68.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70099689/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70099689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,8 +1272,10 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan ",
@@ -1108,13 +1292,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F5XTH111084",
       "stock": "FE26108",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d4e0535b53e7.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256062/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256062/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1311,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F25TH111936",
       "stock": "FE26193",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e4ee9cd9ee68.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256063/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256063/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1331,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F52TH111094",
       "stock": "FE26109",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bb0c0c772997.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256064/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70256064/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1351,17 @@
       "odometer_km": 969,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F51TH111524",
       "stock": "FE26152",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cff19ed6b0ef.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288959/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288959/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1371,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F54TH112344",
       "stock": "FE26234",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/968991e12e52.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288961/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288961/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1391,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F58TH111522",
       "stock": "FE26152",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/46b1c914b5fc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288966/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70288966/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1411,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F80TH014403",
       "stock": "FE26440",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b4c93b2d2b2c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70327645/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70327645/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1431,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F24TH110521",
       "stock": "FE26052",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/eb8c2e141c5e.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70386030/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70386030/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,8 +1451,10 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan ",
@@ -1261,13 +1471,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F2XTH113956",
       "stock": "FE26395",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c6132e99c6c2.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70584707/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70584707/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1490,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F52TH113900",
       "stock": "FE26390",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/33c0a421501a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70584710/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70584710/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1510,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE2F51TH114150",
       "stock": "FE26415",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/99b8e386d05d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70627568/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70627568/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1530,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F89TH015193",
       "stock": "FE26519",
       "color": "Grey",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/6699dedb88b9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70719988/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70719988/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1550,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F88TH016741",
       "stock": "FE26674",
       "color": "Black",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d239bf5f1839.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70753911/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70753911/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1570,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F88TH015086",
       "stock": "FE26508",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/76d6159e9d93.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70803764/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70803764/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1590,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F50TH114673",
       "stock": "FE26467",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cc203129985b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70866741/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70866741/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1610,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F83TH016808",
       "stock": "FE26680",
       "color": "Grey",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/22694a0f5e85.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70866744/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70866744/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1630,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F85TH016888",
       "stock": "FE26688",
       "color": "White",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/220212010769.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877946/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877946/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1650,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F21TH114946",
       "stock": "FE26494",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f0ab3cdb9182.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877951/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877951/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1670,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F23TH114947",
       "stock": "FE26494",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/140d568f3652.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877956/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877956/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1447,14 +1690,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F20TH114968",
       "stock": "FE26496",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/93d0c3aa85ab.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877957/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877957/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,14 +1710,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F59TH115031",
       "stock": "FE26503",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4e9d3f2742a0.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877960/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70877960/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1730,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F86TH017175",
       "stock": "FE26717",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c43e0c91379e.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70902584/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70902584/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,14 +1750,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F84TH017191",
       "stock": "FE26719",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cc28f6ad25ec.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70902585/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/70902585/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,14 +1770,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F29TH114600",
       "stock": "FE26460",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/17387d6c18fc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011343/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011343/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1790,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F25TH115999",
       "stock": "FE26599",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2c28f10dd9ea.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011349/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011349/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1810,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F22TH116012",
       "stock": "FE26601",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b060752910a1.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011350/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011350/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,14 +1830,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F29TH114578",
       "stock": "FE26457",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/0ca180843ada.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011351/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011351/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1583,14 +1850,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F87TH017704",
       "stock": "FE26770",
       "color": "Blue",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b0c8f78deacc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011353/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011353/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1600,14 +1870,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F24TH116013",
       "stock": "FE26601",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2c12a68ef726.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011354/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71011354/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1890,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F83TH017778",
       "stock": "FE26777",
       "color": "Black",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/97b34581e82c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71065184/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71065184/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,14 +1910,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F8XTH019432",
       "stock": "FE26943",
       "color": "Black",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/6d20a14d1351.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079978/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079978/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1930,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F84TH017711",
       "stock": "FE26771",
       "color": "Blue",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/0f39656f289d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079981/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079981/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1950,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F56TH116928",
       "stock": "FE26692",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/154eaec4f71a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079984/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079984/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1970,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE4F86TH018441",
       "stock": "FE26844",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9306e4bdb184.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079997/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079997/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1702,14 +1990,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F53TH116840",
       "stock": "FE26684",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3b3e6c3e3323.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079999/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71079999/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1719,14 +2010,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F85TH018706",
       "stock": "FE26870",
       "color": "White",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/669524cab988.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080006/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080006/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1736,14 +2030,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F86TH019444",
       "stock": "FE26944",
       "color": "Black",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/14d1e2c53469.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080007/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080007/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2050,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F28TH116905",
       "stock": "FE26690",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e924fcbdefef.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080008/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080008/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,14 +2070,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F25TH116859",
       "stock": "FE26685",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/71061488a26a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080014/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080014/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1787,14 +2090,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F84TH018163",
       "stock": "FE26816",
       "color": "Black",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e552c2d01d4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080015/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1804,14 +2110,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F22TH116737",
       "stock": "FE26673",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/aa799709e895.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080017/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080017/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1821,14 +2130,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F8XTH018751",
       "stock": "FE26875",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d6de94e56f9f.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080034/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71080034/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1838,14 +2150,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F27TH112862",
       "stock": "FE26286",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/eb430fe8e588.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71182953/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71182953/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2170,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F50TH113765",
       "stock": "FE26376",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4fbedc8a3310.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71233737/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71233737/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1872,14 +2190,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F55TH112529",
       "stock": "FE26252",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/108ae6333f54.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71233738/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71233738/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2210,17 @@
       "odometer_km": 39,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F8XTH015090",
       "stock": "FE26509",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/37fc58ad5aac.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71250736/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71250736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1906,14 +2230,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F23TH117427",
       "stock": "FE26742",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a691b122c7cc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71260893/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71260893/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,14 +2250,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F24TH117436",
       "stock": "FE26743",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3c5b8a3c233c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71260894/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71260894/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1940,14 +2270,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport eCVT",
       "vin": "2HGFE4F85TH019161",
       "stock": "FE26916",
       "color": "White",
+      "trim": "Sport eCVT",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/32f34a0317ae.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71300341/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-sedan/vancouver/bc/71300341/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2290,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Si Sedan Manual",
       "vin": "2HGFE1E53TH081180",
       "stock": "FE26118",
       "color": "Black",
+      "trim": "Si Manual",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/8f6636a5027b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-si-sedan/vancouver/bc/70502822/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/civic-si-sedan/vancouver/bc/70502822/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,14 +2310,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Si Sedan Manual",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid TrailSport",
       "vin": "2HKRS6H63TH217000",
       "stock": "RS26700",
       "color": "White",
+      "trim": "TrailSport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e9010f7ce7a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/68300543/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/68300543/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1991,14 +2330,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid TrailSport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H95TH229403",
       "stock": "RS26940",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/fe46de40e873.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/69620522/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/69620522/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2008,14 +2350,17 @@
       "odometer_km": 458,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H77TH236934",
       "stock": "RS26693",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c29635616ba8.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70055428/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70055428/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2025,14 +2370,17 @@
       "odometer_km": 2372,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H90TH238364",
       "stock": "RS26836",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/027280cc971a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70136434/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70136434/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2390,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H77TH236772",
       "stock": "RS26677",
       "color": "Grey",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/8dd02f0fc02d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70187429/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70187429/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2059,14 +2410,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H74TH235787",
       "stock": "RS26578",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/346eebf975fb.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70399393/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70399393/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2076,14 +2430,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H90TH242849",
       "stock": "RS26284",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a8a3059d2519.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70479659/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70479659/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2093,14 +2450,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H91TH242133",
       "stock": "RS26213",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/58c6e0e59bb4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70502821/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70502821/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2470,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H75TH244515",
       "stock": "RS26451",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bf6bd9b1c907.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70584705/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70584705/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2490,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H70TH235687",
       "stock": "RS26568",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/706391523acc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70584708/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70584708/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2144,14 +2510,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H79TH235770",
       "stock": "RS26577",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/debc291b14fc.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70714472/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70714472/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,14 +2530,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H75TH244613",
       "stock": "RS26461",
       "color": "Grey",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/009886ddf688.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70777570/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70777570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2178,14 +2550,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H5XTH246825",
       "stock": "RS26682",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e81acd699774.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70866750/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70866750/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2195,14 +2570,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H72TH247288",
       "stock": "RS26728",
       "color": "Grey",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/490d1fed9bbb.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70902587/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70902587/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2212,14 +2590,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H75TH248631",
       "stock": "RS26863",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f962c9176321.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70988793/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70988793/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,14 +2610,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H76TH248640",
       "stock": "RS26864",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7700a65676e8.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70988801/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/70988801/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2246,14 +2630,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H55TH243220",
       "stock": "RS26322",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/eaf53ae7fbf8.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71065175/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71065175/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2263,14 +2650,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H51TH248348",
       "stock": "RS26834",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b286ffbf7568.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71065180/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71065180/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2280,14 +2670,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H73TH250801",
       "stock": "RS26080",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/03a540ceb47f.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079982/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079982/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,14 +2690,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H79TH250799",
       "stock": "RS26079",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cebc009fcf5f.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079987/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079987/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,14 +2710,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H9XTH251770",
       "stock": "RS26177",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/daabafbdf32c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079988/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079988/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2730,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H59TH251272",
       "stock": "RS26127",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e13d2d4c0ce.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079991/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079991/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,14 +2750,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H50TH251273",
       "stock": "RS26127",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5638e8083006.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079992/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079992/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2365,14 +2770,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H71TH250831",
       "stock": "RS26083",
       "color": "Blue",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9c91eacbf768.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079994/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079994/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2382,14 +2790,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H51TH250746",
       "stock": "RS26074",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/95436d9049ef.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079998/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71079998/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2399,14 +2810,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H58TH250663",
       "stock": "RS26066",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/342e2d3dd1f4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71080026/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71080026/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2416,14 +2830,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H95TH239820",
       "stock": "RS26982",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3550de9c511d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71151485/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v-hybrid/vancouver/bc/71151485/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2433,14 +2850,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX - LOW PRICE, HIGH QUALITY",
       "vin": "2HKRS4H28TH103916",
       "stock": "RS26391",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/46a3ee3a9687.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68048377/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68048377/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2450,14 +2870,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX - LOW PRICE, HIGH QUALITY",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport - PRACTICAL, SPACIOUS & EFFICIENT",
       "vin": "2HKRS4H58TH104025",
       "stock": "RS26402",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5a584b2edd80.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68048382/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68048382/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2467,14 +2890,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport - PRACTICAL, SPACIOUS & EFFICIENT",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H58TH104462",
       "stock": "RS26446",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/8d52cf8f43f3.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68077383/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/68077383/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2484,14 +2910,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H53TH111853",
       "stock": "RS26185",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/aa4f0c40e14b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/69982687/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/69982687/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2501,14 +2930,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX AWD",
       "vin": "2HKRS4H25TH111746",
       "stock": "RS26174",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5a82eb609b7e.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/69982690/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/69982690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2518,14 +2950,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H51TH111723",
       "stock": "RS26172",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/0066f139ddc9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70046398/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70046398/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2535,14 +2970,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H58TH111721",
       "stock": "RS26172",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bc2cec18922f.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70046399/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70046399/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2552,14 +2990,17 @@
       "odometer_km": 4114,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H54TH113997",
       "stock": "RS26399",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7a46e691a2fe.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70288962/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70288962/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2569,14 +3010,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H58TH115946",
       "stock": "RS26594",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/afabcebb152b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70569046/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70569046/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2586,14 +3030,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX 2WD",
       "vin": "2HKRS3H25TH001693",
       "stock": "RS26169",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b2a0698d797d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70731488/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70731488/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2603,14 +3050,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX 2WD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H53TH111058",
       "stock": "RS26105",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bb25aa4312be.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70765764/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70765764/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2620,14 +3070,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H51TH117456",
       "stock": "RS26745",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7215f0ad82b5.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70877948/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70877948/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2637,14 +3090,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H59TH117723",
       "stock": "RS26772",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9c3ccd4c8783.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70877949/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/70877949/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2654,14 +3110,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H56TH120417",
       "stock": "RS26041",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/fe221060d5f9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079985/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079985/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2671,14 +3130,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX AWD",
       "vin": "2HKRS4H21TH120279",
       "stock": "RS26027",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a5a2d6ee4386.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079990/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079990/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2688,14 +3150,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H58TH120161",
       "stock": "RS26016",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bbffe90e9b88.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079993/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71079993/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2705,14 +3170,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H52TH119510",
       "stock": "RS26951",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/06875d57ee94.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71080009/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71080009/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2722,14 +3190,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX AWD",
       "vin": "2HKRS4H28TH119680",
       "stock": "RS26968",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c0905333f616.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71080011/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/cr-v/vancouver/bc/71080011/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2739,14 +3210,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Touring AWD",
       "vin": "5FNYG1H76TB503236",
       "stock": "YG26323",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9438049c5271.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70099680/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70099680/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2756,14 +3230,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Touring AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Black Edition AWD",
       "vin": "5FNYG1H93TB503521",
       "stock": "YG26352",
       "color": "Black",
+      "trim": "Black Edition",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2d8b74fe0b4a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70399391/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70399391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2773,14 +3250,17 @@
       "odometer_km": 4481,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Black Edition AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Touring AWD",
       "vin": "5FNYG1H74TB503767",
       "stock": "YG26376",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cb7293d85574.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70479657/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/70479657/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2790,14 +3270,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Touring AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Black Edition AWD",
       "vin": "5FNYG1H92TB505938",
       "stock": "YG26593",
       "color": "Black",
+      "trim": "Black Edition",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b6bd0f3a3130.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/71375099/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/pilot/vancouver/bc/71375099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2807,14 +3290,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Black Edition AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Ridgeline Black Edition AWD",
       "vin": "5FPYK3F82TB502937",
       "stock": "YK26293",
       "color": "Black",
+      "trim": "Black Edition",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5727c641d365.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/ridgeline/vancouver/bc/71410850/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/honda/ridgeline/vancouver/bc/71410850/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2824,14 +3310,17 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Honda",
-      "model": "Ridgeline Black Edition AWD",
-      "condition": "new"
+      "model": "Ridgeline",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Very Low Mileage  | Hybrid Power",
       "vin": "KM8P5DG16TU202064",
       "stock": "YK26118",
       "color": "Brown",
+      "trim": "Very Low Mileage",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/5922dc3fe532.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/hyundai/santa-fe-hybrid/vancouver/bc/71259816/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/hyundai/santa-fe-hybrid/vancouver/bc/71259816/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2841,14 +3330,17 @@
       "odometer_km": 792,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Very Low Mileage",
-      "condition": "used"
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson HTRAC Preferred AWD w-Trend Pkg",
       "vin": "3KMJCCDE8TE031329",
       "stock": "HP10204",
       "color": "Black",
+      "trim": "HTRAC Preferred w-Trend Pkg",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/7cc9a02bae7d.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2026/hyundai/tucson/vancouver/bc/71321944/?sale_class=used",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2026/hyundai/tucson/vancouver/bc/71321944/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2858,8 +3350,10 @@
       "odometer_km": 6387,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson HTRAC Preferred AWD w-Trend Pkg",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2876,7 +3370,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2893,7 +3389,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2910,7 +3408,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2927,7 +3427,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2944,7 +3446,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2961,7 +3465,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2978,7 +3484,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2995,7 +3503,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -3012,13 +3522,16 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport AWD",
       "vin": "2HKRS6H55VH201780",
       "stock": "RS27178",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f8527e099901.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396692/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3028,14 +3541,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport AWD",
       "vin": "2HKRS6H5XVH201757",
       "stock": "RS27175",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a971937e04a4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396694/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396694/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3045,14 +3561,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Touring AWD",
       "vin": "2HKRS6H94VH201952",
       "stock": "RS27195",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7ebb1dc43886.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396696/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396696/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3062,14 +3581,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L AWD",
       "vin": "2HKRS6H79VH202058",
       "stock": "RS27205",
       "color": "Red",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f32c1d047700.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396698/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396698/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3079,14 +3601,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L AWD",
       "vin": "2HKRS6H7XVH201842",
       "stock": "RS27184",
       "color": "Silver",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7922406e3d84.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396703/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396703/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3096,14 +3621,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L AWD",
       "vin": "2HKRS6H75VH201831",
       "stock": "RS27183",
       "color": "Silver",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/84fd70de34c6.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396704/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/cr-v/vancouver/bc/71396704/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3113,14 +3641,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD CVT",
       "vin": "3CZRZ2H56VM100949",
       "stock": "RZ27094",
       "color": "Black",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9ddf368c95fb.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70187430/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70187430/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3130,14 +3661,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD CVT",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD",
       "vin": "3CZRZ2H59VM100637",
       "stock": "RZ27063",
       "color": "White",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d2942dd8f612.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70256068/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70256068/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3147,14 +3681,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD",
       "vin": "3CZRZ2H5XVM103708",
       "stock": "RZ27370",
       "color": "White",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/97df82b32296.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70753908/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70753908/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3164,14 +3701,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD",
       "vin": "3CZRZ2H51VM104696",
       "stock": "RZ27469",
       "color": "Black",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/408e7e18b0ad.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70935920/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70935920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3181,14 +3721,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD",
       "vin": "3CZRZ2H51VM104861",
       "stock": "RZ27486",
       "color": "White",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/6b399989a756.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70988796/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/70988796/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3198,14 +3741,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport AWD",
       "vin": "3CZRZ2H59VM105398",
       "stock": "RZ27539",
       "color": "Blue",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3f57bb0c04b4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/71233736/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/vancouver/bc/71233736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3215,13 +3761,16 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWD",
       "vin": "3CZRZ2H71VM102433",
       "stock": "RZ27243",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a51a3ba619e4.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70399394/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70399394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3231,14 +3780,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX 2WD",
       "vin": "3CZRZ1H34VM100408",
       "stock": "RZ27040",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c0eaaeef6a01.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70682513/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70682513/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3248,14 +3800,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX 2WD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX 2WD",
       "vin": "3CZRZ1H36VM100815",
       "stock": "RZ27081",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9edef2efb69b.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70731489/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/70731489/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3265,14 +3820,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX 2WD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX AWD",
       "vin": "3CZRZ2H32VM100283",
       "stock": "RZ27028",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5307e976c6cf.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/71335393/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/hr-v/vancouver/bc/71335393/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3282,14 +3840,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Sport-L Auto",
       "vin": "5FNRL6H7XVB500081",
       "stock": "RL27008",
       "color": "Black",
+      "trim": "Sport-L Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/af954069e62c.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233730/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233730/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3299,14 +3860,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Sport-L Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H8XVB500560",
       "stock": "RL27056",
       "color": "Grey",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/968ab064337a.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233731/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233731/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3316,8 +3880,10 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey ",
@@ -3334,13 +3900,16 @@
       "year": 2027,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Sport-L Auto",
       "vin": "5FNRL6H78VB500175",
       "stock": "RL27017",
       "color": "White",
+      "trim": "Sport-L Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a53860f888c9.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233733/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233733/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3350,14 +3919,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Sport-L Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H83VB500450",
       "stock": "RL27045",
       "color": "White",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/56fa4652cf31.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233734/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233734/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3367,14 +3939,17 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H8XVB500316",
       "stock": "RL27031",
       "color": "Grey",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f15180dc74f3.html",
       "source_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233735/?sale_class=new",
       "dealer_url": "https://www.kingswayhonda.ca/vehicles/2027/honda/odyssey/vancouver/bc/71233735/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3384,8 +3959,10 @@
       "odometer_km": 60,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }

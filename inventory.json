@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-10-26T01:43:48",
+  "generated_at": "2026-10-26T08:06:06",
   "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1414,6 +1414,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Honda CR-V Hybrid Touring AWD",
+      "vin": "2HKRS6H9XTH251770",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/daabafbdf32c.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54974.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H59TH251272",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e13d2d4c0ce.html",
@@ -1934,17 +1945,6 @@
       "name": "2027 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H95VH201958",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/792a650b7a3e.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 55474.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid Touring AWD",
-      "vin": "2HKRS6H97VH201556",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a1f4979707eb.html",
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",

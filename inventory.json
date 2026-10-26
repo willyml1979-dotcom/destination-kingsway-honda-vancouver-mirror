@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-10-26T08:06:06",
-  "vehicle_count": 199,
+  "generated_at": "2026-10-26T10:11:49",
+  "vehicle_count": 198,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -102,17 +102,6 @@
       "model": "Corolla",
       "condition": "used",
       "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda Fit ",
-      "vin": "3HGGK5H75GM106847",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/69e11f0d7d66.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -303,17 +292,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Elantra Preferred w-Sun & Safety Package IVT",
-      "vin": "KMHD84LF4LU004434",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/48ec2c0abc6e.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Hyundai Kona ",
       "vin": "KM8K2CAA8LU582420",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/9d9a2ae468db.html",
@@ -435,7 +413,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru Crosstrek Outdoor",
+      "name": "2022 Subaru Crosstrek Outdoor | Adventure Ready",
       "vin": "JF2GTHSC8NH205362",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/2baef677fd3b.html",
       "year": 2022,
@@ -457,6 +435,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Subaru WRX ",
+      "vin": "JF1VBAA6XN9019964",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/dc463550e76e.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "used",
+      "price": 27495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Toyota Camry Hybrid Hybrid LE | Accident Free",
       "vin": "4T1C31AK5NU575958",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/009ae544dbb2.html",
@@ -465,6 +454,17 @@
       "model": "Camry Hybrid Hybrid",
       "condition": "used",
       "price": 32495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Honda Civic Hatchback ",
+      "vin": "19XFL1H87PE400415",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/c4d450dd6c36.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Civic Hatchback",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -696,17 +696,6 @@
       "model": "Palisade",
       "condition": "used",
       "price": 48995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Versa SV | Blind Spot Alert | Economical Comfort",
-      "vin": "3N1CN8EV5SL863287",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/051b7e41fda9.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 21995.0,
       "price_currency": "CAD"
     },
     {

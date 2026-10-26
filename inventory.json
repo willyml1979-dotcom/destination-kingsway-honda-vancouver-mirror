@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-10-25T23:31:14",
+  "generated_at": "2026-10-26T01:43:48",
   "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -343,7 +343,7 @@
       "make": "Chevrolet",
       "model": "Camaro",
       "condition": "used",
-      "price": 31495.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -376,7 +376,7 @@
       "make": "Audi",
       "model": "SQ7 4.0 TFSI Quattro",
       "condition": "used",
-      "price": 59995.0,
+      "price": 58995.0,
       "price_currency": "CAD"
     },
     {
@@ -453,7 +453,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 36495.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -486,7 +486,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 64495.0,
+      "price": 63995.0,
       "price_currency": "CAD"
     },
     {
@@ -717,7 +717,7 @@
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "used",
-      "price": 47995.0,
+      "price": 47495.0,
       "price_currency": "CAD"
     },
     {
@@ -739,7 +739,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 45995.0,
+      "price": 45495.0,
       "price_currency": "CAD"
     },
     {

@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-10-26T10:11:49",
-  "vehicle_count": 198,
+  "generated_at": "2026-11-17T09:35:28",
+  "vehicle_count": 192,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -777,17 +777,6 @@
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
-      "vin": "1HGCY2F87TA801118",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/88c73e8f6d4a.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Accord Hybrid",
-      "condition": "new",
-      "price": 49804.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F88TA801385",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/212bcf254454.html",
       "year": 2026,
@@ -853,17 +842,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan Hybrid Sport",
-      "vin": "2HGFE4F88TH012317",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/539808024e7b.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37204.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Civic Sedan Hybrid Sport AWD | Style & Performance",
       "vin": "2HGFE4F87TH012308",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/16d21eed39ef.html",
@@ -897,17 +875,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan Hybrid Sport eCVT",
-      "vin": "2HGFE4F8XTH019432",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e109a3b9ca22.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37704.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Civic Sedan Hybrid Sport Touring eCVT",
       "vin": "2HGFE4F84TH017711",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1ce17611fa68.html",
@@ -931,61 +898,6 @@
     },
     {
       "name": "2026 Honda Civic Sedan Hybrid Sport Touring eCVT",
-      "vin": "2HGFE4F8XTH015090",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/7ba45ad3503e.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 41204.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport eCVT",
-      "vin": "2HGFE4F85TH019161",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a20ddf075a8c.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37704.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport Touring eCVT",
-      "vin": "2HGFE4F81TH020033",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/22599970e5b4.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 41204.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport eCVT",
-      "vin": "2HGFE4F85TH019886",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/efeba8efde17.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37704.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport eCVT",
-      "vin": "2HGFE4F80TH019889",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b2719405a29f.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37704.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport Touring eCVT",
       "vin": "2HGFE4F89TH020135",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c6c297ec2a18.html",
       "year": 2026,
@@ -993,17 +905,6 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 41204.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport eCVT",
-      "vin": "2HGFE4F88TH020546",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4687e80f3a7f.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 37704.0,
       "price_currency": "CAD"
     },
     {
@@ -1029,14 +930,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan Hybrid ",
-      "vin": "2HGFE4F87TH020358",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/83d0972bf832.html",
+      "name": "2026 Honda Civic Sedan Hybrid Sport",
+      "vin": "2HGFE4F86TH020805",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/585b10020b48.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Hybrid",
+      "model": "Civic Hybrid",
       "condition": "new",
-      "price": 41204.0,
+      "price": 37704.0,
       "price_currency": "CAD"
     },
     {
@@ -1139,64 +1040,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan Sport CVT",
-      "vin": "2HGFE2F50TH114673",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cc203129985b.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 35810.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F21TH114946",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f0ab3cdb9182.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F20TH114968",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/93d0c3aa85ab.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sport CVT",
-      "vin": "2HGFE2F59TH115031",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4e9d3f2742a0.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 35810.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F25TH115999",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2c28f10dd9ea.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F22TH116012",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b060752910a1.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
@@ -1224,17 +1070,6 @@
       "model": "Civic",
       "condition": "new",
       "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sport CVT",
-      "vin": "2HGFE2F56TH116928",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/154eaec4f71a.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 35810.0,
       "price_currency": "CAD"
     },
     {
@@ -1271,28 +1106,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F27TH112862",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/eb430fe8e588.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Sport CVT",
-      "vin": "2HGFE2F50TH113765",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4fbedc8a3310.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 35810.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F55TH112529",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/108ae6333f54.html",
@@ -1301,61 +1114,6 @@
       "model": "Civic",
       "condition": "new",
       "price": 35810.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F24TH117436",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3c5b8a3c233c.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan LX CVT",
-      "vin": "2HGFE2F25TH118238",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2aff03125bce.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 31950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Si Sedan Manual",
-      "vin": "2HGFE1E53TH081180",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/8f6636a5027b.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 40210.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid TrailSport",
-      "vin": "2HKRS6H63TH217000",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e9010f7ce7a.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 51074.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
-      "vin": "2HKRS6H75TH248631",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/f962c9176321.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 52474.0,
       "price_currency": "CAD"
     },
     {
@@ -1382,52 +1140,8 @@
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
-      "vin": "2HKRS6H51TH248348",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b286ffbf7568.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 49674.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
-      "vin": "2HKRS6H79TH250799",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cebc009fcf5f.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 52474.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Touring AWD",
-      "vin": "2HKRS6H9XTH251770",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/daabafbdf32c.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 54974.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H59TH251272",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1e13d2d4c0ce.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 49674.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Sport AWD",
-      "vin": "2HKRS6H50TH251273",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5638e8083006.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
@@ -1458,12 +1172,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid ",
+      "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H53TH217411",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ae4a0131e8c8.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e95019cf8da0.html",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid",
+      "model": "CR-V",
       "condition": "new",
       "price": 49674.0,
       "price_currency": "CAD"
@@ -1532,17 +1246,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 46655.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Sport AWD",
-      "vin": "2HKRS4H58TH115946",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/afabcebb152b.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 47155.0,
       "price_currency": "CAD"
     },
     {
@@ -1623,17 +1326,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V LX AWD",
-      "vin": "2HKRS4H28TH119680",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c0905333f616.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 43555.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Pilot Touring AWD",
       "vin": "5FNYG1H76TB503236",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9438049c5271.html",
@@ -1689,20 +1381,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Prologue Touring AWD",
-      "vin": "3GPKHZRJ2TS512565",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/c843770b25b3.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Prologue",
-      "condition": "new",
-      "price": 73764.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda Ridgeline Black Edition AWD",
       "vin": "5FPYK3F82TB502937",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5727c641d365.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "new",
+      "price": 62770.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda Ridgeline Black Edition",
+      "vin": "5FPYK3F86TB503315",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cb52f2f3a364.html",
       "year": 2026,
       "make": "Honda",
       "model": "Ridgeline",
@@ -1763,6 +1455,149 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 36495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic LX",
+      "vin": "2HGFE2F27VH100018",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4e02a4059080.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F83VH000207",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/d73d1ee2b7b6.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F94VH000578",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1dbf97789736.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41854.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic Sport",
+      "vin": "2HGFE4F83VH000370",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e8812c7aaf98.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 37804.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F88VH000512",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1274c01560da.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic Sport Touring",
+      "vin": "2HGFE4F97VH000557",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/952c6894bce2.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41854.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE2F26VH100351",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a299f52c7078.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F81VH000268",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/27595966a1cc.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F99VH000432",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/2588145a3582.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41854.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F82VH000294",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/45a752ea5bc5.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F86VH000296",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/0a67da7db58d.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F98VH000809",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9e06ddd4b00c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41304.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Civic ",
+      "vin": "2HGFE4F98VH000051",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cc0e5dd2eb69.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 41854.0,
       "price_currency": "CAD"
     },
     {
@@ -1898,17 +1733,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid TrailSport AWD",
-      "vin": "2HKRS6H66VH201926",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/fbd0f10b5170.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 51574.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H73VH201472",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/09b14d73e3db.html",
@@ -1997,6 +1821,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H77VH205847",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3186f8d640d2.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52974.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H96VH205064",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9616ea2c8e5f.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 55474.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H71VH206086",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4a6d474f8ec3.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52424.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H72VH202743",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/10578831c2a0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52974.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H70VH201333",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/474443abe4b2.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 52974.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H97VH204053",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/60fea6d2c44a.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 55474.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Sport",
+      "vin": "2HKRS6H53VH201454",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/1d93981783d7.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 50174.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda HR-V Sport AWD CVT",
       "vin": "3CZRZ2H56VM100949",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/b68565ba664b.html",
@@ -2033,17 +1934,6 @@
       "name": "2027 Honda HR-V Sport AWD",
       "vin": "3CZRZ2H5XVM103708",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5da55231bbb1.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 40080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V Sport AWD",
-      "vin": "3CZRZ2H51VM104696",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/67dd93ac1057.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
@@ -2096,14 +1986,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V EX-L AWD",
-      "vin": "3CZRZ2H76VM107515",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/18d6789e9a12.html",
+      "name": "2027 Honda HR-V LX",
+      "vin": "3CZRZ2H3XVM108387",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5a8855fb5abe.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 42880.0,
+      "price": 36880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda HR-V LX",
+      "vin": "3CZRZ2H36VM108760",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/bd31fce3be64.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 36330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda HR-V Sport",
+      "vin": "3CZRZ2H57VM104685",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/51cac8dc2f2e.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 40180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda HR-V EX-L",
+      "vin": "3CZRZ2H77VM107233",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ebb9b005aa1c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 42980.0,
       "price_currency": "CAD"
     },
     {
@@ -2115,17 +2038,6 @@
       "model": "Odyssey",
       "condition": "new",
       "price": 59200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda Odyssey Touring Auto",
-      "vin": "5FNRL6H8XVB500560",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/968ab064337a.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "new",
-      "price": 64600.0,
       "price_currency": "CAD"
     },
     {
@@ -2176,6 +2088,28 @@
       "name": "2027 Honda Passport ",
       "vin": "5FNYF9H89VB500229",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/56a0e0fc8a04.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65970.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport ",
+      "vin": "5FNYF9H89VB500733",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/3627e144f8fb.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 65970.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda Passport ",
+      "vin": "5FNYF9H84VB500168",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/cd7346efc48c.html",
       "year": 2027,
       "make": "Honda",
       "model": "Passport",

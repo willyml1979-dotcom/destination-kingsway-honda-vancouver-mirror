@@ -1,14 +1,14 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-11-17T09:35:28",
-  "vehicle_count": 192,
+  "generated_at": "2026-11-17T13:57:44",
+  "vehicle_count": 185,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2007 Toyota Camry Sedan 4dr Sdn I4 Auto LE",
+      "name": "2007 Toyota Camry 4dr Sdn I4 Auto LE",
       "vin": "4T1BE46K27U084847",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/a362f1e7de15.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/f34acd259220.html",
       "year": 2007,
       "make": "Toyota",
       "model": "Camry",
@@ -28,6 +28,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2008 Honda Fit DX",
+      "vin": "JHMGD38408S810416",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/399455e47722.html",
+      "year": 2008,
+      "make": "Honda",
+      "model": "Fit",
+      "condition": "used",
+      "price": 8495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2010 Mercedes-Benz GLK-Class GLK 350 | V6 Premium Utility",
       "vin": "WDCGG8HB5AF488367",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/5aa671e7fd61.html",
@@ -35,51 +46,40 @@
       "make": "Mercedes-Benz",
       "model": "GLK-Class GLK 350",
       "condition": "used",
-      "price": 11995.0,
+      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2011 BMW 1 Series Convertible ",
+      "name": "2011 BMW 1 Series Convertible 128i | Executive Package & Navigation",
       "vin": "WBAUL7C50BVJ78521",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d8ec88244749.html",
       "year": 2011,
       "make": "BMW",
       "model": "1 Series",
       "condition": "used",
+      "price": 12495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Mercedes-Benz E-Class Sedan E 350 | 3.5L V6 | 4MATIC All-Wheel Drive",
+      "vin": "WDDHF8JBXDA683024",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/03abc2fee093.html",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "condition": "used",
       "price": 13995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Hyundai ACCENT Sedan ",
-      "vin": "KMHCU4AE2CU233034",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/828e0dd51a42.html",
-      "year": 2012,
-      "make": "Hyundai",
-      "model": "ACCENT Sedan",
-      "condition": "used",
-      "price": 7495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Toyota Corolla Sedan 4dr Sdn Auto CE",
-      "vin": "2T1BU4EE2DC060642",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ad5fdbf56b7e.html",
-      "year": 2013,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 BMW 3 Series Sedan 328i xDrive | Premium Package",
-      "vin": "WBA3B3C51EF545013",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/399b5ee424c5.html",
+      "name": "2014 Jeep Grand Cherokee Limited | Powerful Luxury V6",
+      "vin": "1C4RJFBG8EC108664",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d8859d6dbfdd.html",
       "year": 2014,
-      "make": "BMW",
-      "model": "3 Series",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
       "condition": "used",
-      "price": 10995.0,
+      "price": 9995.0,
       "price_currency": "CAD"
     },
     {
@@ -94,14 +94,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Toyota Corolla Sedan 4dr Sdn CVT LE",
-      "vin": "2T1BURHEXFC290666",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/6092f3c7862d.html",
-      "year": 2015,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "2016 Hyundai Santa Fe Sport Premium trim | Low mileage",
+      "vin": "5XYZUDLB1GG338334",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/49d0f0299ad6.html",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 15995.0,
+      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -138,17 +138,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Honda Civic Hatchback Versatile | Turbo Hatchback Sport",
-      "vin": "SHHFK7H44HU308871",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/3d6ffe587784.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Honda Civic Sedan Turbocharged Civic Touring",
       "vin": "2HGFC1F96HH108855",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/4d06d5841997.html",
@@ -168,17 +157,6 @@
       "model": "Ridgeline",
       "condition": "used",
       "price": 28495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 RAM 1500 4WD Crew Cab 140.5  Sport",
-      "vin": "1C6RR7MT1HS652806",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/32967aea3fcb.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -204,6 +182,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Honda CR-V Touring | Panoramic roof |Leather upholstery",
+      "vin": "2HKRW2H91JH107020",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/9217a00e4641.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 22495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Kia Sedona Perfect family vehicle | Low mileage",
       "vin": "KNDMB5C19J6401476",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/3fa14b08f492.html",
@@ -215,25 +204,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota Yaris Hatchback 5dr SE Manual | Fuel Effecient",
-      "vin": "VNKKTUD34JA094592",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/51af5e26c2e9.html",
+      "name": "2018 Subaru WRX 6-Speed Manual | Sport-Tuned Suspension",
+      "vin": "JF1VA1A63J9826758",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ec95df2c02ed.html",
       "year": 2018,
-      "make": "Toyota",
-      "model": "Yaris Hatchback 5dr SE Manual",
+      "make": "Subaru",
+      "model": "WRX",
       "condition": "used",
-      "price": 17495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Audi A4 Sedan Progressiv 45 TFSI quattro",
-      "vin": "WAUBNAF40KN008337",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/2b99142eed6d.html",
-      "year": 2019,
-      "make": "Audi",
-      "model": "A4",
-      "condition": "used",
-      "price": 22995.0,
+      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -248,14 +226,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Mazda CX-5 GS Auto | Adventure Ready AWD",
-      "vin": "JM3KFBCM0K1618506",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cfd836f43281.html",
+      "name": "2019 Honda Civic Sedan EX",
+      "vin": "2HGFC2F73KH013097",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/e091c88d13ac.html",
       "year": 2019,
-      "make": "Mazda",
-      "model": "CX-5",
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 21995.0,
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota C-HR XLE | Accident-free | Toyota safety sense",
+      "vin": "JTNKHMBX5K1046984",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/87c3934138d2.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "used",
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -281,18 +270,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda HR-V Sport AWD CVT",
-      "vin": "3CZRU6H21LM107039",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/801120a3ca88.html",
+      "name": "2020 Hyundai Elantra Preferred w-Sun & Safety Package IVT",
+      "vin": "KMHD84LF4LU004434",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/48ec2c0abc6e.html",
       "year": 2020,
-      "make": "Honda",
-      "model": "HR-V",
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 22495.0,
+      "price": 10495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Kona ",
+      "name": "2020 Hyundai Kona Preferred | Blind Spot Alert | Fuel Efficient",
       "vin": "KM8K2CAA8LU582420",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/9d9a2ae468db.html",
       "year": 2020,
@@ -336,14 +325,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Camry Sedan SE Auto | Sport-Tuned Suspension",
-      "vin": "4T1G11AK2MU433332",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/f67ae647dadd.html",
+      "name": "2021 Honda CR-V LX | Turbocharged AWD | Adventure Ready",
+      "vin": "2HKRW2H21MH201390",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ec25732bdf53.html",
       "year": 2021,
-      "make": "Toyota",
-      "model": "Camry",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 21495.0,
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Honda Ridgeline Premium Touring | Accident Free",
+      "vin": "5FPYK3F7XMB501611",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/30fc8034e610.html",
+      "year": 2021,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Tesla Model 3 Standard Range Plus | Tesla Autopilot",
+      "vin": "5YJ3E1EA8MF054188",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/101aeb6a7927.html",
+      "year": 2021,
+      "make": "Tesla",
+      "model": "Model 3",
+      "condition": "used",
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -369,28 +380,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford F-150 XLT EcoBoost V6 | SuperCrew Cab 4x4",
-      "vin": "1FTFW1E86NKF13925",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cd919d96dc65.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Civic Sedan Paddle Shifter Sport-Tuned Civic",
-      "vin": "2HGFE2F51NH112420",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/1c83b6a467fb.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Honda Civic Sedan Touring FWD | Adaptive Cruise | Accident Free",
       "vin": "2HGFE1F99NH007461",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/baa38318e8aa.html",
@@ -399,17 +388,6 @@
       "model": "Civic",
       "condition": "used",
       "price": 24495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Forte Sedan EX+ | One owner | Great commuter car",
-      "vin": "3KPF34AD9NE442977",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/dc530bb8a46f.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -435,17 +413,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru WRX ",
-      "vin": "JF1VBAA6XN9019964",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/dc463550e76e.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 27495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Toyota Camry Hybrid Hybrid LE | Accident Free",
       "vin": "4T1C31AK5NU575958",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/009ae544dbb2.html",
@@ -453,29 +420,7 @@
       "make": "Toyota",
       "model": "Camry Hybrid Hybrid",
       "condition": "used",
-      "price": 32495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Civic Hatchback ",
-      "vin": "19XFL1H87PE400415",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/c4d450dd6c36.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Civic Hatchback",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Civic Sedan ",
-      "vin": "2HGFE2F22PH106800",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/54f58515e897.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 25995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -490,14 +435,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CR-V LX AWD | Adventure Ready | Accident Free",
-      "vin": "2HKRS4H20PH105505",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/2aba104e57c3.html",
+      "name": "2023 Honda CR-V Sport-B | Adventure Ready",
+      "vin": "2HKRS4H51PH110514",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ff8b0c6b8410.html",
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
       "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Honda Pilot Touring | 8-Passenger Comfort | Accident Free",
+      "vin": "5FNYG1H78PB500652",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/89bbc2831b05.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Pilot",
+      "condition": "used",
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Palisade Ultimate Calligraphy | Accident Free | Luxury SUV",
+      "vin": "KM8R5DGE7PU604127",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/f6d37518f2c5.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used",
+      "price": 41995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Lexus RX RX 500h F-Sport 2 |  Sport Luxury",
+      "vin": "2T2BCMEA2PC002644",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/4e197e424b6d.html",
+      "year": 2023,
+      "make": "Lexus",
+      "model": "RX",
+      "condition": "used",
+      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -512,17 +490,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda Civic Sedan Premium features | Sporty design",
-      "vin": "2HGFE1F98RH000958",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/4f3603249777.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda Civic Sedan LX-B | Honda Sensing Safety Technology",
       "vin": "2HGFE2F23RH101141",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/623f59197243.html",
@@ -530,7 +497,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 26995.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -552,11 +519,11 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "used",
-      "price": 48995.0,
+      "price": 48495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Elantra ",
+      "name": "2024 Hyundai Elantra Luxury | Smart Cruise Control | Accident Free",
       "vin": "KMHLN4DG0RU776210",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/32da31e73984.html",
       "year": 2024,
@@ -567,18 +534,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Tesla Model Y ",
-      "vin": "7SAYGDEF1RF016874",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/300d93c728f0.html",
+      "name": "2024 Mitsubishi RVR Everyday Versatility | Accident Free",
+      "vin": "JA4AJVAW9RU601389",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cf5d89384447.html",
       "year": 2024,
-      "make": "Tesla",
-      "model": "Model Y",
+      "make": "Mitsubishi",
+      "model": "RVR",
       "condition": "used",
-      "price": 55995.0,
+      "price": 22495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota RAV4 ",
+      "name": "2024 Toyota RAV4 LE | Fuel Efficient All-Weather AWD",
       "vin": "2T3B1RFV2RC463362",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/7d2eb29c5b0f.html",
       "year": 2024,
@@ -589,31 +556,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Civic Sedan Hybrid Accident-free | Honda Certified",
-      "vin": "2HGFE4F86SH018745",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/7b6f1fe62ddd.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
+      "name": "2024 Volkswagen ID.4 Pro | Panoramic roof | Electra 20\" Wheel Package",
+      "vin": "1V2VRPE82RC003351",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/176afdc4d549.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "ID.4",
       "condition": "used",
-      "price": 32995.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Honda Civic Sedan LX | Sporty Economical Civic",
       "vin": "2HGFE2F23SH109388",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b334d9746ec4.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 28495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Sedan LX FWD | Smart Safety & Sporty Civic",
-      "vin": "2HGFE2F22SH109818",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/4c0e8b006ca9.html",
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
@@ -633,34 +589,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda CR-V Hybrid Hybrid Touring AWD | Bose Premium Audio",
-      "vin": "2HKRS6H93SH210864",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/1d46bbf5f96e.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V LX AWD | Adventure Ready",
-      "vin": "2HKRS4H27SH111441",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/1233d7c5dc84.html",
+      "name": "2025 Honda CR-V Sport | Turbocharged AWD",
+      "vin": "2HKRS4H55SH110394",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/79202789e146.html",
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used",
-      "price": 35495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda HR-V EX-L Navi | Adventure Ready",
-      "vin": "3CZRZ2H72SM108317",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/7ee8f75fff35.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "HR-V",
       "condition": "used",
       "price": 33995.0,
       "price_currency": "CAD"
@@ -688,25 +622,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Palisade Ultimate Calligraphy 7-Passenger AWD",
-      "vin": "KM8R5DGE4SU863537",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/b9af8b00b52b.html",
+      "name": "2025 Mazda CX-5 Skyactiv G | Adventure Ready",
+      "vin": "JM3KFBCL3S0559772",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d5fdc190a91c.html",
       "year": 2025,
-      "make": "Hyundai",
-      "model": "Palisade",
+      "make": "Mazda",
+      "model": "CX-5",
       "condition": "used",
-      "price": 48995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Golf R Performance Hatch | Racing DNA",
-      "vin": "WVWCB7CD8SW232313",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/080c3339510a.html",
+      "name": "2025 Nissan Versa SV | Blind Spot Alert | Economical Comfort",
+      "vin": "3N1CN8EV5SL863287",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/051b7e41fda9.html",
       "year": 2025,
-      "make": "Volkswagen",
-      "model": "Golf R",
+      "make": "Nissan",
+      "model": "Versa",
       "condition": "used",
-      "price": 47495.0,
+      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -717,7 +651,18 @@
       "make": "Volkswagen",
       "model": "ID.4",
       "condition": "used",
-      "price": 54495.0,
+      "price": 53995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Tiguan Highline R-Line | Performance and Luxury combined",
+      "vin": "3VVLR7RM2SM019216",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/f6338ab8e109.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -732,25 +677,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4 | Adventure Ready",
-      "vin": "3FMCR9CN0TRE15916",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/265fac19bb01.html",
+      "name": "2026 Honda Civic Sedan Hybrid Sport Hybrid | Accident Free",
+      "vin": "2HGFE4F81TH003989",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/0dbcd1a1fb51.html",
       "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
+      "make": "Honda",
+      "model": "Civic Hybrid",
       "condition": "used",
-      "price": 35995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid Sport AWD | Accident Free",
-      "vin": "2HKRS6H57TH218061",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/cea5a588a51e.html",
+      "name": "2026 Honda CR-V Hybrid Touring | Adventure Ready | Accident Free",
+      "vin": "2HKRS6H99TH229775",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/595ea86e5482.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 44495.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -1403,25 +1348,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona ",
-      "vin": "KM8HCCABXTU476695",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/d11310e99269.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mercedes-Benz GLA ",
-      "vin": "W1N4N4HB6TJ774373",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/c452377ff96a.html",
+      "name": "2026 Mercedes-Benz GLE GLE 350 | Mild-Hybrid-Turbocharged Luxury SUV",
+      "vin": "4JGFB4FB7TB525551",
+      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/11f57d843ded.html",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA",
+      "model": "GLE",
       "condition": "used",
-      "price": 39495.0,
+      "price": 71995.0,
       "price_currency": "CAD"
     },
     {
@@ -1432,18 +1366,7 @@
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
       "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota RAV4 ",
-      "vin": "2T36CRAV6TW077830",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/2d27ebae5fc8.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 47995.0,
+      "price": 33495.0,
       "price_currency": "CAD"
     },
     {
@@ -1454,7 +1377,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 36495.0,
+      "price": 35495.0,
       "price_currency": "CAD"
     },
     {

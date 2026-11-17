@@ -7,7 +7,7 @@ Destination Kingsway Honda Vancouver is a  dealership in Vancouver. This site is
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ (about 192 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/ (about 185 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/llms.txt

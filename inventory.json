@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-11-18T00:57:02",
-  "vehicle_count": 185,
+  "generated_at": "2026-11-18T03:31:43",
+  "vehicle_count": 184,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -112,7 +112,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 20495.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -145,18 +145,18 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 19995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Honda Ridgeline Touring |Accident-free |Approved Pre-owned",
+      "name": "2017 Honda Ridgeline Touring | Honda Approved Pre-Owned | No Accidents",
       "vin": "5FPYK3F72HB504993",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/0ca1f68b12f4.html",
       "year": 2017,
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "used",
-      "price": 28495.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -167,7 +167,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 19995.0,
+      "price": 18495.0,
       "price_currency": "CAD"
     },
     {
@@ -270,17 +270,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Elantra Preferred w-Sun & Safety Package IVT",
-      "vin": "KMHD84LF4LU004434",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/48ec2c0abc6e.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 10495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Hyundai Kona Preferred | Blind Spot Alert | Fuel Efficient",
       "vin": "KM8K2CAA8LU582420",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/9d9a2ae468db.html",
@@ -310,7 +299,7 @@
       "make": "Chevrolet",
       "model": "Camaro",
       "condition": "used",
-      "price": 30995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -365,7 +354,7 @@
       "make": "Audi",
       "model": "SQ7 4.0 TFSI Quattro",
       "condition": "used",
-      "price": 58995.0,
+      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
@@ -376,7 +365,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 29495.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -409,7 +398,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 35995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -431,7 +420,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 63995.0,
+      "price": 62995.0,
       "price_currency": "CAD"
     },
     {
@@ -585,7 +574,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -673,7 +662,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 45495.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {

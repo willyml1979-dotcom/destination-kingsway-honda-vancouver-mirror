@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Kingsway Honda Vancouver",
-  "generated_at": "2026-11-18T03:31:43",
-  "vehicle_count": 184,
+  "generated_at": "2026-11-18T10:08:57",
+  "vehicle_count": 180,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1106,17 +1106,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid Sport AWD",
-      "vin": "2HKRS6H53TH217411",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/e95019cf8da0.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 49674.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Honda CR-V Sport - PRACTICAL, SPACIOUS & EFFICIENT",
       "vin": "2HKRS4H58TH104025",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/5a584b2edd80.html",
@@ -1744,17 +1733,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid Touring",
-      "vin": "2HKRS6H96VH205064",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/9616ea2c8e5f.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 55474.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H71VH206086",
       "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/4a6d474f8ec3.html",
@@ -1829,17 +1807,6 @@
       "model": "HR-V",
       "condition": "new",
       "price": 40180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V EX-L AWD",
-      "vin": "3CZRZ2H71VM102433",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a51a3ba619e4.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 42880.0,
       "price_currency": "CAD"
     },
     {
@@ -1961,17 +1928,6 @@
       "model": "Odyssey",
       "condition": "new",
       "price": 66400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda Odyssey Sport-L Auto",
-      "vin": "5FNRL6H78VB500175",
-      "url": "https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/new/a53860f888c9.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "new",
-      "price": 59200.0,
       "price_currency": "CAD"
     },
     {

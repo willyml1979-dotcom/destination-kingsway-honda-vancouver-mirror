@@ -1,6 +1,6 @@
 # Destination Kingsway Honda Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 184 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 180 vehicles.
 
 - Official website: https://www.kingswayhonda.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/destination-kingsway-honda-vancouver-mirror/used/
